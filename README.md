@@ -1,1 +1,1 @@
-reaed me
+A Python program that uses the requests library to get data on vacancies for the keywords Junior, Middle and Senior and regions of Russia from the site adzuna.ru. The pandas library is used for data processing. Data visualization was performed: a graph of the distribution of the number of vacancies in Moscow, Nizhny Novgorod and Kazan was constructed.
